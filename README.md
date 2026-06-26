@@ -1,5 +1,5 @@
 ## Tienda de Accesorios para PC - Base de Datos
-Este repositorio contiene el diseño e implementación de la base de datos relacional para una Tienda de Accesorios de PC. Incluye el diagrama entidad-relación y los scripts necesarios para su creación.
+Este repositorio contiene el diseño e implementación de la base de datos relacional para una Tienda de Accesorios de PC.
 
 ## 📊 Estructura de la BD
 El modelo consta de 6 tablas principales conectadas para gestionar el flujo de ventas, inventario y proveedores:
